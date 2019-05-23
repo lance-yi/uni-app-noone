@@ -1,1 +1,0 @@
-<template name="fd105ccc"><view class="_view fd105ccc content"><image class="_image fd105ccc logo" src="../../static/logo.png"></image><view class="_view fd105ccc"><text class="_text fd105ccc title">{{title}}</text></view></view></template>
